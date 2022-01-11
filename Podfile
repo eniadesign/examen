@@ -1,0 +1,21 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'examUpax' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for examUpax
+pod 'Firebase/Auth'
+
+pod 'Firebase/Firestore'
+
+# Optionally, include the Swift extensions if you're using Swift.
+pod 'FirebaseFirestoreSwift'
+
+pod 'DropDown'
+
+  # Pods for ChartsTutorial
+	pod 'Charts'
+
+end
