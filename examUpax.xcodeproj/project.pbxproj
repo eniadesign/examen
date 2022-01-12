@@ -118,7 +118,7 @@
 		DE5D8F48278CEECC003B4B24 /* messagesCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = messagesCell.swift; sourceTree = "<group>"; };
 		DE5D8F4C278CF07B003B4B24 /* MessageEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageEntity.swift; sourceTree = "<group>"; };
 		DE5D8F50278D1264003B4B24 /* notificactionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = notificactionsCell.swift; sourceTree = "<group>"; };
-		DE5D8F54278D12DF003B4B24 /* NotificationEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NotificationEntity.swift; path = examUpax/Notificaciones/Cells/NotificationEntity.swift; sourceTree = SOURCE_ROOT; };
+		DE5D8F54278D12DF003B4B24 /* NotificationEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NotificationEntity.swift; path = examUpax/Notificaciones/info/NotificationEntity.swift; sourceTree = SOURCE_ROOT; };
 		DE5D8F59278D1358003B4B24 /* alertas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = alertas.json; sourceTree = "<group>"; };
 		DE5D8F5D278D1B76003B4B24 /* TablaMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaMain.swift; sourceTree = "<group>"; };
 		DE5D8F61278D1B87003B4B24 /* TablaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaView.swift; sourceTree = "<group>"; };
