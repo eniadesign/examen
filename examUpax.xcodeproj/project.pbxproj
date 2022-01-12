@@ -120,7 +120,7 @@
 		DE5D8F50278D1264003B4B24 /* notificactionsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = notificactionsCell.swift; sourceTree = "<group>"; };
 		DE5D8F54278D12DF003B4B24 /* NotificationEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = NotificationEntity.swift; path = examUpax/Notificaciones/Cells/NotificationEntity.swift; sourceTree = SOURCE_ROOT; };
 		DE5D8F59278D1358003B4B24 /* alertas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = alertas.json; sourceTree = "<group>"; };
-		DE5D8F5D278D1B76003B4B24 /* TablaMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TablaMain.swift; path = ../../../../../Desktop/TablaMain.swift; sourceTree = "<group>"; };
+		DE5D8F5D278D1B76003B4B24 /* TablaMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaMain.swift; sourceTree = "<group>"; };
 		DE5D8F61278D1B87003B4B24 /* TablaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaView.swift; sourceTree = "<group>"; };
 		DE5D8F64278D1B91003B4B24 /* TablaViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaViewUI.swift; sourceTree = "<group>"; };
 		DE5D8F67278D1BAB003B4B24 /* TablaInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaInteractor.swift; sourceTree = "<group>"; };
@@ -154,7 +154,7 @@
 		DE720D13278A5BFD0055C629 /* Splash.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Splash.swift; sourceTree = "<group>"; };
 		DE720D17278A5C230055C629 /* SplashScreenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreenView.swift; sourceTree = "<group>"; };
 		DE720D1B278A5D570055C629 /* NavExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavExtension.swift; sourceTree = "<group>"; };
-		DE775CD2278C4033000873F4 /* EntityPerfil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = EntityPerfil.swift; path = "../../../../../BAZNEW/aceptapago-ios-sdk-base/EntityPerfil.swift"; sourceTree = "<group>"; };
+		DE775CD2278C4033000873F4 /* EntityPerfil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EntityPerfil.swift; sourceTree = "<group>"; };
 		DE775CD6278C4B66000873F4 /* NotifMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotifMain.swift; sourceTree = "<group>"; };
 		DE775CD9278C4B75000873F4 /* NotifView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotifView.swift; sourceTree = "<group>"; };
 		DE775CDD278C4B8F000873F4 /* NotifInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotifInteractor.swift; sourceTree = "<group>"; };
