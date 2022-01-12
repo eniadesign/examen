@@ -129,7 +129,7 @@
 		DE5D8F70278D1BD6003B4B24 /* TablaRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaRouter.swift; sourceTree = "<group>"; };
 		DE5D8F74278D1BF1003B4B24 /* TablaEntity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaEntity.swift; sourceTree = "<group>"; };
 		DE5D8F78278D1F4D003B4B24 /* tabla.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tabla.json; sourceTree = "<group>"; };
-		DE5D8F7C278D2283003B4B24 /* TablaCells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = TablaCells.swift; path = ../../../../../../Desktop/TablaCells.swift; sourceTree = "<group>"; };
+		DE5D8F7C278D2283003B4B24 /* TablaCells.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TablaCells.swift; sourceTree = "<group>"; };
 		DE720CC02789DED80055C629 /* examUpax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = examUpax.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE720CC32789DED80055C629 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE720CC52789DED80055C629 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
