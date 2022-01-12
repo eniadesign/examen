@@ -108,7 +108,7 @@
 		DE5B199F278C062400848706 /* PerfilInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilInteractor.swift; sourceTree = "<group>"; };
 		DE5B19A2278C063A00848706 /* PerfilRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilRouter.swift; sourceTree = "<group>"; };
 		DE5B19A5278C082C00848706 /* PerfilProtocols.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfilProtocols.swift; sourceTree = "<group>"; };
-		DE5B19A9278C0A3500848706 /* profile_cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = profile_cell.swift; path = examUpax/Perfil/profile_cell.swift; sourceTree = SOURCE_ROOT; };
+		DE5B19A9278C0A3500848706 /* profile_cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = profile_cell.swift; path = examUpax/Perfil/Cells/profile_cell.swift; sourceTree = SOURCE_ROOT; };
 		DE5B19AF278C0B0300848706 /* infoprofile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = infoprofile.json; sourceTree = "<group>"; };
 		DE5D8F35278CE8E6003B4B24 /* MesssageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MesssageView.swift; sourceTree = "<group>"; };
 		DE5D8F39278CE960003B4B24 /* MessageViewUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessageViewUI.swift; sourceTree = "<group>"; };
